@@ -90,3 +90,9 @@ This project demonstrates how **Convolutional Neural Networks (CNNs)** can be ap
 
 **Arun Dharwad**
 MCA Student | Aspiring Data Scientist
+
+#OUTPUT
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/f3821eba-c529-482c-8626-fb9cc8aa278a" />
+
+<img width="1567" height="374" alt="Image" src="https://github.com/user-attachments/assets/615104ba-e435-407f-9964-b1e223c62bdf" />
